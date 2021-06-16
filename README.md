@@ -14,6 +14,6 @@ protopersona 2 extremos 1 promedio
 ### **¿Qué existe que puede inspirar la propuesta?** 
 
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
-> Me pareció interesante ocupar este plugin porque la animación que ocupa al filtrar agregan dinamismo y se ve más llamativo
+> Me pareció interesante este plugin porque la animación que ocupa al filtrar agrega una gráfica dinámica y llamativa a la página
 
 2. 
