@@ -17,6 +17,8 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 
 #### Antecedentes
 
+1. [Portafolio diseñador](http://allancoutachot.fr/)
+> 
 
 ### **¿Qué existe que puede inspirar la propuesta?**
 
@@ -29,4 +31,4 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 > De esta página rescato el lenguaje gráfico, que utiliza gradientes de colores contrastantes y vibrantes, y elementos animados que permiten una interacción entre la página y la persona que la está viendo. 
 
 3. [My Drink](https://www.my-drink.ch/)
-> Gráfica que posee elementos dinámicos a lo largo de toda la página, pero que al mismo tiempo no pierde la gráfica minimalista, simple y fácil de seguir. 
+> Gráfica minimalista, simple y fácil de seguir. Posee elementos animados que le dan carácter a la página.
