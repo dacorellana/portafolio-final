@@ -24,7 +24,7 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 
 #### Referentes
 
-[alt text](/imagenes-14/referentes.png)
+![alt text](/imagenes-14/referentes.png)
 
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
 > Me pareció interesante este plugin porque la animación que ocupa al filtrar agrega una gráfica dinámica y llamativa a la página. Me permitiría clasificar mis trabajos, ya que tengo intereses en varias áreas del diseño.
