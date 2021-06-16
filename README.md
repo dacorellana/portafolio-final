@@ -9,4 +9,4 @@
 **¿Qué existe que puede inspirar la propuesta?** 
 
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
-2. 
+> Me pareció interesante ocupar este plugin porque filtra usando animaciones y se ve más dinámico e interesante
