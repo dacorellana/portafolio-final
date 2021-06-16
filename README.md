@@ -13,10 +13,10 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 #### (Usuario más probable)
 3. Diseñador en una consultora de diseño, que se encuentra buscando personas para añadir a su equipo de trabajo. Por la naturaleza de la empresa donde trabaja, busca perfiles de diseñadores multifacéticos y que se puedan desempeñar en diferentes áreas. Está al tanto de las tendencias en el mercado tanto nacional como internacional.
 
-### **¿Qué existe que es similar a la propuesta?** 
+### **¿Qué existe que es similar a la propuesta?** (antecedentes)
 
 
-### **¿Qué existe que puede inspirar la propuesta?** 
+### **¿Qué existe que puede inspirar la propuesta?** (referentes)
 
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
 > Me pareció interesante este plugin porque la animación que ocupa al filtrar agrega una gráfica dinámica y llamativa a la página. Me permitiría clasificar mis trabajos, ya que tengo intereses en varias áreas del diseño.
