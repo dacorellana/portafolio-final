@@ -25,5 +25,8 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
 > Me pareció interesante este plugin porque la animación que ocupa al filtrar agrega una gráfica dinámica y llamativa a la página. Me permitiría clasificar mis trabajos, ya que tengo intereses en varias áreas del diseño.
 
-2.[Agencia digital francesa]( https://www.agencekali.fr/)
+2. [Agencia digital francesa]( https://www.agencekali.fr/)
 > De esta página rescato el lenguaje gráfico, que utiliza gradientes de colores contrastantes y vibrantes, y elementos animados que permiten una interacción entre la página y la persona que la está viendo. 
+
+3. [My Drink](https://www.my-drink.ch/)
+> Gráfica que posee elementos dinámicos a lo largo de toda la página, pero que al mismo tiempo no pierde la gráfica minimalista, simple y fácil de seguir. 
