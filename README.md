@@ -1,4 +1,6 @@
-# Portafolio
+# Portafolio de diseño
+
+Dominio betinahip.com o betinahip.design
 
 **¿Para qué?** → Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional.
 
@@ -9,4 +11,6 @@
 **¿Qué existe que puede inspirar la propuesta?** 
 
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
-> Me pareció interesante ocupar este plugin porque filtra usando animaciones y se ve más dinámico e interesante
+> Me pareció interesante ocupar este plugin porque la animación que ocupa al filtrar agregan dinamismo y se ve más llamativo
+
+2. 
