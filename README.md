@@ -26,11 +26,15 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 
 ![alt text](/imagenes-14/referentes.png)
 
++ En estos referentes gráficos el foco principal está en el juego con distintos estilos tipográficos y formas que transmiven movimiento y fluidez, las que le otorgan carácter a la página. 
++ Uso de un estilo minimalista, donde la navegación sea sencilla. Uso de colores vibrantes y con alto radio de contraste. Poco uso de imágenes.
++ Me gustaría añadir elementos animados, para reafirmar el carácter del estilo gráfico. Aquí hay algunos referentes sobre eso:
+
 1. [Plugin de jQuery para filtrar elementos](https://isotope.metafizzy.co/)
-> Me pareció interesante este plugin porque la animación que ocupa al filtrar agrega una gráfica dinámica y llamativa a la página. Me permitiría clasificar mis trabajos, ya que tengo intereses en varias áreas del diseño.
+> Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
 
 2. [Agencia digital francesa]( https://www.agencekali.fr/)
-> De esta página rescato el lenguaje gráfico, que utiliza gradientes de colores contrastantes y vibrantes, y elementos animados que permiten una interacción entre la página y la persona que la está viendo. 
+> De esta página rescato los elementos animados que se activan con la interacción entre la página y la persona que la está viendo. 
 
 3. [My Drink](https://www.my-drink.ch/)
-> Gráfica minimalista, simple y fácil de seguir. Posee elementos animados que le dan carácter a la página.
+> Los elementos animados que tiene le dan un estilo más contemporáneo a la página y aportan al carácter sin ser distractores y sin quitar el estilo minimalista de la información que entregan.
