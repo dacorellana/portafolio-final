@@ -32,10 +32,12 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 
 ## **Antecedentes** 
 
-1. [Portafolio diseñador](http://allancoutachot.fr/)
-2. [portafolio 2](https://www.anandupender.com/)
-3. [portafolio agencia de branding](https://studioouam.com/en)
-4. [portafolio Agencia digital francesa](https://www.agencekali.fr/)
+1. [Portafolio diseño 1](http://allancoutachot.fr/)
+2. [Portafolio diseño 2](https://www.anandupender.com/)
+3. [Portafolio diseño 3](https://ztandesign.com/)
+4. [Portafolio diseño 4](https://www.alexandermorris.co/)
+5. [Portafolio agencia de branding](https://studioouam.com/en)
+6. [Portafolio agencia digital](https://www.agencekali.fr/)
 > De esta página rescato los elementos animados que se activan con la interacción entre la página y la persona que la está viendo. 
 
 
@@ -43,17 +45,17 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 
 1. [Isotope](https://isotope.metafizzy.co/)
 
-![isotope](/imagenes-14/isotope.png)
+![alt text](/imagenes-14/isotope.png)
 > Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
 
 2. [My Drink](https://www.my-drink.ch/)
 
-![mydrink](/imagenes-14/mydrink.png)
+![alt text](/imagenes-14/mydrink.png)
 > Los elementos animados que tiene le dan un estilo más contemporáneo a la página y aportan al carácter sin ser distractores y sin quitar el estilo minimalista de la información que entregan.
 
 3. [Regi](https://regi.it/)
 
-![Regi](/imagenes-14/regi.png)
+![alt text](/imagenes-14/regi.png)
 > Página de empresa de maquillaje. Me parece muy interesante la gráfica de esta página, que se basa en un fondo de gradiente, con una tipografía display pero sencilla y fácil de leer. Además, el sitio tiene animaciones que funcionan con la interacción de la persona con la página. 
 
 4. [Mafanfa](https://mafanfa.com/)
@@ -63,7 +65,7 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 
 5. [Protagonist](https://www.protagonist.app/#/)
 
-![Protagonist](/imagenes/protagonist.png)
+![alt text](/imagenes/protagonist.png)
 > Presentación de una aplicación de revistas. Me gusta el protagonismo de la tipografía, el uso de colores y que el sitio presenta animaciones si se hace scroll. Lo negativo es que el scroll es muy largo y llega a aburrir.
 
 Otros referentes gráficos que tienen otros elementos que me interesan y me gustaría plasmar en mi página:
