@@ -33,11 +33,33 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 ## **Antecedentes** 
 
 1. [Portafolio diseño 1](http://allancoutachot.fr/)
+
+![alt text](/imagenes-14/p1.png)
+> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+
 2. [Portafolio diseño 2](https://www.anandupender.com/)
+
+![alt text](/imagenes-14/p2.png)
+> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+
 3. [Portafolio diseño 3](https://ztandesign.com/)
+
+![alt text](/imagenes-14/p3.png)
+> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+
 4. [Portafolio diseño 4](https://www.alexandermorris.co/)
+
+![alt text](/imagenes-14/p4.png)
+> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+
 5. [Portafolio agencia de branding](https://studioouam.com/en)
+
+![alt text](/imagenes-14/p5.png)
+> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> 
 6. [Portafolio agencia digital](https://www.agencekali.fr/)
+
+![alt text](/imagenes-14/p6.png)
 > De esta página rescato los elementos animados que se activan con la interacción entre la página y la persona que la está viendo. 
 
 
@@ -69,6 +91,7 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 > Presentación de una aplicación de revistas. Me gusta el protagonismo de la tipografía, el uso de colores y que el sitio presenta animaciones si se hace scroll. Lo negativo es que el scroll es muy largo y llega a aburrir.
 
 Otros referentes gráficos que tienen otros elementos que me interesan y me gustaría plasmar en mi página:
+
 ![alt text](/imagenes-14/referentes.png)
 
 + El foco principal está en el juego con distintos estilos tipográficos y formas que transmiven movimiento y fluidez, las que le otorgan carácter a la página. 
