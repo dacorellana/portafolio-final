@@ -90,6 +90,7 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 ![alt text](/imagenes-14/protagonist.png)
 > Presentación de una aplicación de revistas. Me gusta el protagonismo de la tipografía, el uso de colores y que el sitio presenta animaciones si se hace scroll. Lo negativo es que el scroll es muy largo y llega a aburrir.
 
+
 Otros referentes gráficos que tienen otros elementos que me interesan y me gustaría plasmar en mi página:
 
 ![alt text](/imagenes-14/referentes.png)
