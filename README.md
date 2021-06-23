@@ -9,21 +9,12 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 #### (Usuario central)
 
 ![alt text](/imagenes-14/usuario-3.jpg)
-Marcela González, diseñadora
 
-##### Comportamientos y acciones
-- 
-
-##### Detalles demográficos y psicográficos
-- Es jefa de proyectos en una consultora de diseño
-- 
-
-##### Necesidades y dolores
 - Necesita apoyo para los diferentes proyectos que tiene la empresa
 - Un equipo joven y atento a las nuevas tendencias
 - Últimamente le han llegado muchos encargos de UX y le gustaría añadir a alguien al equipo con esa experiencia
 
-Diseñadora gráfica y jefa de proyectos en una consultora de diseño. 
+Diseñadora gráfica y jefa de proyectos en una consultora de diseño. Le gusta mucho su trabajo y planea quedarse mucho tiempo en él. Por esta razón es muy esforzada y exigente con su equipo de trabajo. Siempre está pendiente de las tendencias gráficas y busca en redes sociales inspiración y referentes, y lidera reuniones frecuentes con este objetivo en específico. Ella se dedica al branding, pero últimamente han llegado muchos encargos a la empresa sobre UX, por lo que necesita más diseñadores con experiencia en esa área. Quiere añadir a su equipo a diseñadores jóvenes y capaces de entregar resultados de calidad.
 
 #### (Usuario extremo)
 
@@ -34,7 +25,7 @@ Javiera Navarrete
 ##### Detalles demográficos y psicográficos
 ##### Necesidades y dolores
 
-Estudiante de diseño que busca inspiración para su proyecto de taller. A veces se estanca creativamente, por lo que se convirtió en su hobbie buscar perfiles de diseñadores con proyectos que le parezcan interesantes y dentro de sus intereses tanto gráficos como conceptuales, para utilizarlos como referentes para su trabajo. Le gusta estar al tanto de las nuevas tendencias de diseño, para plasmarlas en sus trabajos para la universidad y también para su vida cotidiana y personal, especialmente la forma en que viste.
+Estudiante de diseño que busca inspiración para su proyecto de taller. A veces se estanca creativamente, por lo que se convirtió en su hobbie buscar perfiles de diseñadores con proyectos que le parezcan interesantes y dentro de sus intereses tanto gráficos como conceptuales, para utilizarlos como referentes para su trabajo. Le gusta estar al tanto de las nuevas tendencias de diseño, para plasmarlas en sus trabajos para la universidad y también para su vida cotidiana.
 
 #### (Usuario extremo)
 
