@@ -1,11 +1,11 @@
 # Portafolio de diseño
 
 ### **¿Para qué?**
---------
+---
 Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional, para la búsqueda de trabajo una vez que me inserte en el mundo laboral.
 
 ### **¿Para quiénes?**  
---------
+---
 #### (Usuarios menos probables)
 1. Estudiante de diseño que busca inspiración para su proyecto de taller. Constantemente busca perfiles de diseñadores con proyectos que le parezcan interesantes y dentro de sus intereses tanto gráficos como conceptuales, para utilizarlos como referentes para su trabajo. Utiliza redes sociales como Behance, Pinterest e Instagram para ver las últimas tendencias de diseño.
 
