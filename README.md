@@ -35,27 +35,27 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 1. [Portafolio diseño 1](http://allancoutachot.fr/)
 
 ![alt text](/imagenes-14/p1.png)
-> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> Me gusta el uso de las figuras, que predominan sobre las imágenes y le agrega movimiento a la página.
 
 2. [Portafolio diseño 2](https://www.anandupender.com/)
 
 ![alt text](/imagenes-14/p2.png)
-> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> Me gusta el estilo minimalista y el uso de colores.
 
 3. [Portafolio diseño 3](https://ztandesign.com/)
 
 ![alt text](/imagenes-14/p3.png)
-> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> Me llama la atención el predominio de la tipografía en la página y muy bajo uso de imágenes.
 
 4. [Portafolio diseño 4](https://www.alexandermorris.co/)
 
 ![alt text](/imagenes-14/p4.png)
-> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> Me gusta el uso de tipografía script para los títulos, el estilo minimalista y el poco uso de imágenes.
 
 5. [Portafolio agencia de branding](https://studioouam.com/en)
 
 ![alt text](/imagenes-14/p5.png)
-> Es un plugin de jQuery que permite filtrar elementos de una forma dinámica y mediante una animación. Me pareció interesante usar este plugin para clasificar mis trabajos en distintas áreas del diseño.
+> Tiene elementos animados y el uso predominante de la tipografía.
 > 
 6. [Portafolio agencia digital](https://www.agencekali.fr/)
 
