@@ -35,7 +35,7 @@ Ingeniero de software que ha trabajado 6 años en una empresa de informática, y
 1. [Portafolio diseño 1](http://allancoutachot.fr/)
 
 ![alt text](/imagenes-14/p1.png)
-> Me gusta el uso de las figuras, que predominan sobre las imágenes y le agrega movimiento a la página.
+> Me gusta el uso de las figuras, que le agrega movimiento a la página y el predominio de la tipografía.
 
 2. [Portafolio diseño 2](https://www.anandupender.com/)
 
