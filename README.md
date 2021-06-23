@@ -1,11 +1,11 @@
 # Portafolio de diseño: betinahip.design
 
 ## **¿Para qué?**
----
+
 Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional, para la búsqueda de trabajo una vez que me inserte en el mundo laboral.
 
 ## **¿Para quiénes?**  
----
+
 #### (Usuarios menos probables)
 1. Estudiante de diseño que busca inspiración para su proyecto de taller. Constantemente busca perfiles de diseñadores con proyectos que le parezcan interesantes y dentro de sus intereses tanto gráficos como conceptuales, para utilizarlos como referentes para su trabajo. Utiliza redes sociales como Behance, Pinterest e Instagram para ver las últimas tendencias de diseño.
 
@@ -15,13 +15,11 @@ Dar a conocer mis trabajos, actividades e intereses como diseñadora profesional
 3. Diseñador en una consultora de diseño, que se encuentra buscando personas para añadir a su equipo de trabajo. Por la naturaleza de la empresa donde trabaja, busca perfiles de diseñadores multifacéticos y que se puedan desempeñar en diferentes áreas. Está al tanto de las tendencias en el mercado tanto nacional como internacional.
 
 ## **Antecedentes** 
----
 
 1. [Portafolio diseñador](http://allancoutachot.fr/)
 > 
 
 ## **Referentes**
----
 
 ![alt text](/imagenes-14/referentes.png)
 
